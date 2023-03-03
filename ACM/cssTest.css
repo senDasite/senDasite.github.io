@@ -1,0 +1,25 @@
+body {
+    background: lightblue;
+  }
+  p {
+    color: black;
+    font-family: cursive;
+    font-size: 15px;
+  }
+  h1 {
+    font-weight: bold;
+    text-decoration: underline; 
+    color:black;
+  }
+  h2 {
+    color:black;
+    text-decoration: underline; 
+  }
+  img {
+     border-color:black;   
+     border-style:solid;
+     border-radius: 10px;
+     border-width: 3px;
+  
+    
+  }
