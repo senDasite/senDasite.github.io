@@ -1,0 +1,41 @@
+body {
+    background: lightblue;
+  }
+  p{
+    color: orangered;
+    font-size: 17px;
+    text-align: left;
+    font-family: cursive;
+  }
+  h1 {
+    font-weight: bold;
+    text-decoration: underline; 
+    color: brown; 
+  }
+  h2 {
+    color: darkred;
+    font-weight: bold;
+  }
+      
+  img {
+    border-color: saddlebrown;   
+    border-style:solid;
+    border-radius:20px;
+    border-width: 3px;
+    float: right;
+    width: 300px;
+  }
+  ul {
+    font-size: 17px;
+    font-family: cursive;
+    color: saddlebrown;
+  }
+  ol {
+    font-size: 17px;
+    font-family: cursive;
+    color: saddlebrown;
+  }
+  .brown {
+    color: saddlebrown;
+    font-weight: bold;
+  }
